@@ -1,0 +1,89 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PlayerShotLeft01
+  rotate: false
+  xy: 1, 73
+  size: 111, 129
+  orig: 111, 129
+  offset: 0, 0
+  index: -1
+PlayerShotRight01
+  rotate: false
+  xy: 114, 73
+  size: 111, 129
+  orig: 111, 129
+  offset: 0, 0
+  index: -1
+playerLeft1
+  rotate: false
+  xy: 227, 73
+  size: 111, 129
+  orig: 111, 129
+  offset: 0, 0
+  index: -1
+playerLeft2
+  rotate: false
+  xy: 340, 73
+  size: 111, 129
+  orig: 111, 129
+  offset: 0, 0
+  index: -1
+playerRight1
+  rotate: false
+  xy: 453, 73
+  size: 111, 129
+  orig: 111, 129
+  offset: 0, 0
+  index: -1
+playerRight2
+  rotate: false
+  xy: 566, 73
+  size: 111, 129
+  orig: 111, 129
+  offset: 0, 0
+  index: -1
+ninjaLeft1
+  rotate: false
+  xy: 679, 73
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+ninjaLeft2
+  rotate: false
+  xy: 761, 73
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+ninjaRight1
+  rotate: false
+  xy: 843, 73
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+ninjaRight2
+  rotate: false
+  xy: 925, 73
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 1, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+8x8
+  rotate: false
+  xy: 1007, 194
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
